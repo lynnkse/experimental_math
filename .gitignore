@@ -1,0 +1,16 @@
+# Julia specific files
+*.jl.lib
+*.ji
+*.jld
+*.fdb_latexmk
+*.fls
+
+# Build files
+*.o
+*.exe
+*.so
+*.dylib
+*.dll
+
+# Julia packages
+.julia/
